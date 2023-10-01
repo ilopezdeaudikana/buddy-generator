@@ -1,0 +1,19 @@
+@import './base.css';
+
+#app {
+  font-weight: normal;
+}
+
+body {
+  font-family: roboto;
+  margin: 0;
+}
+
+.block {
+  display: block;
+  border-color: #e5e5e5;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  padding: 16px;
+}
